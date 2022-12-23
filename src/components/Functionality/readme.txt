@@ -1,0 +1,1 @@
+This is a folder for the component containing Filter, Sort, and Search

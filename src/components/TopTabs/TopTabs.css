@@ -1,0 +1,27 @@
+.tabs{
+    position: absolute;
+    width: 226px;
+    height: 49px;
+    left: 292px;
+    top: 136px;
+    overflow: hidden;
+}
+
+.tabs>button{
+    background-color: inherit;
+    float: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    /* padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px; */
+}
+
+.tabs>button:hover{
+    background-color: #ddd;
+}
+
+/* .tabs>button.active{
+    background-color:#256EFF;
+} */
